@@ -1,0 +1,419 @@
+[
+  {
+    "class": " Allergy / Immunology",
+    "synonyms": [
+      "xenogeneic",
+      "allergic",
+      "allergic_reaction",
+      "immunology",
+      "immunologic",
+      "immunologist",
+      "allergist",
+      "immunological",
+      "allogeneic",
+      "allergy"
+    ]
+  },
+  {
+    "class": " Bariatrics",
+    "synonyms": [
+      "bariatrics"
+    ]
+  },
+  {
+    "class": " Cardiovascular / Pulmonary",
+    "synonyms": [
+      "cardiovascular",
+      "pulmonary",
+      "pneumonic",
+      "pulmonic"
+    ]
+  },
+  {
+    "class": " Neurology",
+    "synonyms": [
+      "neurologic",
+      "clinical_neurology",
+      "neurology",
+      "neurologist",
+      "neurological"
+    ]
+  },
+  {
+    "class": " Dentistry",
+    "synonyms": [
+      "dental_medicine",
+      "odontology",
+      "dentistry"
+    ]
+  },
+  {
+    "class": " Urology",
+    "synonyms": [
+      "urogenital_medicine",
+      "urology",
+      "urologist"
+    ]
+  },
+  {
+    "class": " General Medicine",
+    "synonyms": [
+      "general medicine"
+    ]
+  },
+  {
+    "class": " Surgery",
+    "synonyms": [
+      "operating_theatre",
+      "surgical_process",
+      "operation",
+      "surgical_procedure",
+      "surgical",
+      "surgery",
+      "surgical_operation",
+      "operative",
+      "operate",
+      "operating_room",
+      "operating_theater",
+      "OR"
+    ]
+  },
+  {
+    "class": " Speech - Language",
+    "synonyms": [
+      "language",
+      "talking_to",
+      "nomenclature",
+      "linguistic_process",
+      "speechify",
+      "speech",
+      "spoken_communication",
+      "lecture",
+      "voice_communication",
+      "linguistic_communication",
+      "speech_communication",
+      "address",
+      "deliver",
+      "terminology",
+      "actor's_line",
+      "terminological",
+      "oral_communication",
+      "manner_of_speaking",
+      "lyric",
+      "speak",
+      "spoken_language",
+      "delivery",
+      "lyricist",
+      "words"
+    ]
+  },
+  {
+    "class": " SOAP / Chart / Progress Notes",
+    "synonyms": [
+      "soapy",
+      "scoop",
+      "liquid_ecstasy",
+      "grievous_bodily_harm",
+      "saponify",
+      "chartist",
+      "graph",
+      "easy_lay",
+      "soap",
+      "max",
+      "Georgia_home_boy",
+      "progress notes",
+      "lather",
+      "goop",
+      "chart"
+    ]
+  },
+  {
+    "class": " Sleep Medicine",
+    "synonyms": [
+      "sleep medicine"
+    ]
+  },
+  {
+    "class": " Rheumatology",
+    "synonyms": [
+      "rheumatology",
+      "rheumatologist"
+    ]
+  },
+  {
+    "class": " Radiology",
+    "synonyms": [
+      "radiology",
+      "radiological",
+      "radioscopy",
+      "radiologist"
+    ]
+  },
+  {
+    "class": " Psychiatry / Psychology",
+    "synonyms": [
+      "psychiatry",
+      "psychopathology",
+      "psychological_medicine",
+      "psychiatrical",
+      "psychiatrist",
+      "psychologist",
+      "psychopathological",
+      "psychology",
+      "psychological",
+      "psychological_science",
+      "psychiatric",
+      "psychopathologic"
+    ]
+  },
+  {
+    "class": " Podiatry",
+    "synonyms": [
+      "chiropodist",
+      "podiatrist",
+      "chiropody",
+      "podiatry"
+    ]
+  },
+  {
+    "class": " Physical Medicine - Rehab",
+    "synonyms": [
+      "rehab",
+      "physical medicine"
+    ]
+  },
+  {
+    "class": " Pediatrics - Neonatal",
+    "synonyms": [
+      "pediatrics",
+      "neonatal",
+      "pedology",
+      "paediatric",
+      "pediatric_medicine",
+      "paediatrician",
+      "paediatrics",
+      "pediatric",
+      "pediatrist",
+      "pediatrician"
+    ]
+  },
+  {
+    "class": " Pain Management",
+    "synonyms": [
+      "pain management"
+    ]
+  },
+  {
+    "class": " Orthopedic",
+    "synonyms": [
+      "orthopedics",
+      "orthopedic",
+      "orthopedical",
+      "orthopaedic"
+    ]
+  },
+  {
+    "class": " Ophthalmology",
+    "synonyms": [
+      "ophthalmologist",
+      "ophthalmology"
+    ]
+  },
+  {
+    "class": " Office Notes",
+    "synonyms": [
+      "office notes"
+    ]
+  },
+  {
+    "class": " Obstetrics / Gynecology",
+    "synonyms": [
+      "gynecology",
+      "gynaecologist",
+      "gynecologist",
+      "gynaecological",
+      "gynecological",
+      "obstetric",
+      "OB",
+      "obstetrical",
+      "tocology",
+      "gynaecology",
+      "obstetrics",
+      "gynecologic",
+      "obstetrician",
+      "midwifery"
+    ]
+  },
+  {
+    "class": " Neurosurgery",
+    "synonyms": [
+      "neurosurgery"
+    ]
+  },
+  {
+    "class": " Nephrology",
+    "synonyms": [
+      "nephrology"
+    ]
+  },
+  {
+    "class": " Letters",
+    "synonyms": [
+      "varsity_letter",
+      "let",
+      "missive",
+      "letter",
+      "letterer",
+      "alphabetic_character",
+      "letter_of_the_alphabet"
+    ]
+  },
+  {
+    "class": " Lab Medicine - Pathology",
+    "synonyms": [
+      "pathologist",
+      "pathologic",
+      "lab medicine",
+      "pathological",
+      "pathology"
+    ]
+  },
+  {
+    "class": " IME-QME-Work Comp etc.",
+    "synonyms": [
+      "work comp etc.",
+      "ime",
+      "qme"
+    ]
+  },
+  {
+    "class": " Hospice - Palliative Care",
+    "synonyms": [
+      "palliative care",
+      "hospice"
+    ]
+  },
+  {
+    "class": " Hematology - Oncology",
+    "synonyms": [
+      "oncologic",
+      "hematology",
+      "hematologic",
+      "oncological",
+      "oncology",
+      "oncologist",
+      "hematologist",
+      "haematologist",
+      "hematological",
+      "haematological",
+      "haematology"
+    ]
+  },
+  {
+    "class": " Gastroenterology",
+    "synonyms": [
+      "gastroenterology",
+      "gastroenterologist"
+    ]
+  },
+  {
+    "class": " ENT - Otolaryngology",
+    "synonyms": [
+      "otolaryngologist",
+      "rhinolaryngologist",
+      "ent",
+      "otorhinolaryngologist",
+      "otolaryngology",
+      "otorhinolaryngology",
+      "rhinolaryngology"
+    ]
+  },
+  {
+    "class": " Endocrinology",
+    "synonyms": [
+      "endocrinologist",
+      "endocrinology"
+    ]
+  },
+  {
+    "class": " Emergency Room Reports",
+    "synonyms": [
+      "emergency room reports"
+    ]
+  },
+  {
+    "class": " Discharge Summary",
+    "synonyms": [
+      "discharge summary"
+    ]
+  },
+  {
+    "class": " Diets and Nutritions",
+    "synonyms": [
+      "diets and nutritions"
+    ]
+  },
+  {
+    "class": " Dermatology",
+    "synonyms": [
+      "dermatologic",
+      "dermatological",
+      "dermatology",
+      "dermatologist"
+    ]
+  },
+  {
+    "class": " Cosmetic / Plastic Surgery",
+    "synonyms": [
+      "decorativeness",
+      "ornament",
+      "cosmetic",
+      "enhance",
+      "decorate",
+      "ornamental",
+      "decorative",
+      "plastic surgery",
+      "enhancive"
+    ]
+  },
+  {
+    "class": " Consult - History and Phy.",
+    "synonyms": [
+      "confer",
+      "consultant",
+      "refer",
+      "consultatory",
+      "conferee",
+      "consultative",
+      "history and phy.",
+      "confer_with",
+      "consultive",
+      "consult",
+      "confab",
+      "reference",
+      "confabulation",
+      "consultation",
+      "look_up",
+      "conference",
+      "confabulate"
+    ]
+  },
+  {
+    "class": " Chiropractic",
+    "synonyms": [
+      "chiropractic"
+    ]
+  },
+  {
+    "class": " Autopsy",
+    "synonyms": [
+      "postmortem_examination",
+      "PM",
+      "necropsy",
+      "autopsy",
+      "postmortem",
+      "post-mortem_examination",
+      "post-mortem"
+    ]
+  }
+]
